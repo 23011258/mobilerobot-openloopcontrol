@@ -1,3 +1,6 @@
+## Developed by:Chandana Yendluri
+## Registration No: 23011258
+
 # MobileRobot-Openloopcontrol
 ## Aim:
 
@@ -30,7 +33,7 @@ Step5:
 Give ep_chassis.drive_speed to have a circular movement.
 
 ## Program:
-Developed by:  lakshmi mounika Register No: 212223100026
+Developed by:  Chandana Yendluri Register No: 23011258
 ~~~
 from robomaster import robot
 import time
@@ -114,8 +117,7 @@ https://www.youtube.com/@mounikareddy8920
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-Developed by: LAKSHMI MOUNIKA
-Registration No: 212223100026
+
 
 ~~~
 
